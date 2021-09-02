@@ -13,8 +13,11 @@ A completely white image
 
 # 3)
 On your own image(I took  Donald trump) perform the following operations. Your results must have the original image and corresponding transformed image (hint: to get an idea about how your images must look like visit the attached link):
-Translation
-Euclidean Transformation
-Similar transformation
-Affine transform
-Projective transform
+<br />Translation,
+<br />Euclidean Transformation,
+<br />Similar transformation,
+<br />Affine transform,
+<br />Projective transform,
+
+![img_tr](https://user-images.githubusercontent.com/61466555/131833406-24618c9f-de94-4a87-931b-6768b5e69d4b.png)
+
