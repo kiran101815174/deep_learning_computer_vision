@@ -21,3 +21,13 @@ On your own image(I took  Donald trump) perform the following operations. Your r
 
 ![img_tr](https://user-images.githubusercontent.com/61466555/131833406-24618c9f-de94-4a87-931b-6768b5e69d4b.png)
 
+# 4) 
+ Implementing Viola jones pretrained parameters to detect faces in an images</br>
+ actual viola jones contains 4 stages</br>
+ The Viola-Jones algorithm has 4 main steps, and you’ll learn more about each of them in the sections that follow:</br>
+
+1)Selecting Haar-like features</br>
+2)Creating an integral image</br>
+3)Running AdaBoost training</br>
+4)Creating classifier cascades</br>
+
