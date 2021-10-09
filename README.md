@@ -34,3 +34,6 @@ On your own image(I took  Donald trump) perform the following operations. Your r
 # 5)
 Apply Convolution neural networks using keras and tensorflow for MNIST data set.
 
+# 6)
+Cats and Dogs classification using CNN and applying previous concpets like data augmentation to improve model accuracy
+
