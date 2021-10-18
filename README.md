@@ -1,5 +1,5 @@
 # deep_learning_computer_vision
-This is a series of experiments for the subject deep_learning for computer vision,which closely follows the pattern of my academic subject DPCV
+This is a series of experiments for the subject deep_learning for computer vision,which closely follows the pattern of my academic subject DLCV
 # 1) 
 Create Histogram of 
 a RGB 8-bit image
